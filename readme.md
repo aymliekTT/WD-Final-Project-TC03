@@ -123,8 +123,9 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Boxicons | Used to input icons. | https://boxicons.com/ |
-| Fontawesome | Used to input icons. | https://fontawesome.com/icons|
+| Font Awesome | Used to input icons. | https://fontawesome.com/icons|
 | CSS Terminal Text Effect | Used for text animation on the home page. | https://www.sliderrevolution.com/resources/css-text-animation/ |
 | Color Palette | Used for the theme of the website. | https://colorhunt.co/palette/27374d526d829db2bfdde6ed|
 | Progress and Radial Bar | Used on the skills page. | https://www.youtube.com/watch?v=Md7pEE3nxzg |
+| Google Fonts | Used the font Poppins for my website. | https://fonts.google.com/specimen/Poppins?query=poppins |
 
