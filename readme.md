@@ -9,18 +9,18 @@
     <img src="./assets/img/cat-logo.png" alt="Nyebe" width="130" height="130">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Personal Website</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  This personal/portfolio website project showcases five navigations and the distinct layouts and features of every page.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FaymliekTT%2FWD-Final-Project-TC03.git&s=40&c=1679ab&bg=00000000&no=2&ff=electrolize&tb=&ta=)
 
 ---
 
@@ -57,20 +57,24 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+Description of the project in detail.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project? The project is about creating a personal/portfolio website that displays five distinct page designs and each has its features, the home page showcases the designs and layout of the landing page, the About page has my personal information and profile description, the Skills page shows the skills I have mastered, the Projects page reveals the past projects I have worked on, and the Contacts page has a form for sending an email to me, and my contact and social media information.
+- What is the purpose?
+  - To showcase the skills I have learned to create a personal/portfolio website.
+- What are the key components?
+  - It is a multipage resume-like website with some animation.
+- What technology is used and how is it used?
+  - The technologies used on this website are HTML, CSS, and JavaScript. HTML is used to lay out the webpages, while CSS makes it more visually pleasing, and JavaScript was used for the terminal text effect.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Animation
+- Resume-like Website
+
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +121,9 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Boxicons | Used to input icons. | https://boxicons.com/ |
+| Fontawesome | Used to input icons. | https://fontawesome.com/icons|
+| CSS Terminal Text Effect | Used for text animation on the home page. | https://www.sliderrevolution.com/resources/css-text-animation/ |
+| Color Palette | Used for the theme of the website. | https://colorhunt.co/palette/27374d526d829db2bfdde6ed|
+| Progress and Radial Bar | Used on the skills page. | https://www.youtube.com/watch?v=Md7pEE3nxzg |
+
