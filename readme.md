@@ -116,6 +116,12 @@ WD-ProjectName
 └─ index.html
 └─ readme.md
 ```
+## Websites and Repositories
+| Title | Website | Repository |
+|-|-|-|
+| Seatwork 2 | https://aymliektt.github.io/WD-Seatwork-2-TC03/ | https://github.com/aymliekTT/WD-Seatwork-2-TC03.git |
+| Seatwork 3 | https://aymliektt.github.io/WD-Seatwork-3-TC03/ | https://github.com/aymliekTT/WD-Seatwork-3-TC03.git |
+| Seatwork 4 | https://aymliektt.github.io/WD-Seatwork-4-TC03/ | https://github.com/aymliekTT/WD-Seatwork-4-TC03.git |
 
 ## Resources
 
