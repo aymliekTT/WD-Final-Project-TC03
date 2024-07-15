@@ -60,7 +60,8 @@
 Description of the project in detail.
 
 Guiding Question:
-- What is the project? The project is about creating a personal/portfolio website that displays five distinct page designs and each has its features, the home page showcases the designs and layout of the landing page, the About page has my personal information and profile description, the Skills page shows the skills I have mastered, the Projects page reveals the past projects I have worked on, and the Contacts page has a form for sending an email to me, and my contact and social media information.
+- What is the project?
+  - The project is about creating a personal/portfolio website that displays five distinct page designs and each has its features, the home page showcases the designs and layout of the landing page, the About page has my personal information and profile description, the Skills page shows the skills I have mastered, the Projects page reveals the past projects I have worked on, and the Contacts page has a form for sending an email to me, and my contact and social media information.
 - What is the purpose?
   - To showcase the skills I have learned to create a personal/portfolio website.
 - What are the key components?
