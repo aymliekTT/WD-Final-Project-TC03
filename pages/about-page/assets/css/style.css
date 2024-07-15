@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    /*outline: 1px solid red;*/
+    }
+
+body {
+    background-color: #DDE6ED;
+    overflow: hidden;
+    }
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 5em;
+
+    & h3 {
+        font-size: 1.5rem;
+        color: #27374D;
+        font-weight: 700;
+        }
+
+    & nav {
+        display: flex;
+        align-items: center;
+        gap: 80px;
+
+        & a {
+            text-decoration: none;
+            color: #27374D;
+            font-size: 1.1rem;
+            font-weight: 500;
+            transition: all 0.3s ease;
+
+            &:hover {
+                transform: translateY(-5px);
+                color: #526D82;
+                }
+            }
+    }
+}
+
+.container {
+    position: relative;
+    display: grid;
+    margin: 50px;
+    grid-template-columns: 1fr 1fr;
+
+    & .profile {
+        position: relative;
+        display: flex;
+        justify-self: center;
+        align-self: center;
+        width: 400px;
+        height: 400px;
+        border: 3px solid #27374D;
+        border-radius: 50%;
+        overflow: hidden;
+    }
+
+    & .info {
+        position: relative;
+        justify-content: center;
+        align-self: center;
+        margin: 10px 40px 10px 0;
+        padding: 20px;
+        background-color: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+        & h2 {
+            font-size: 1.7rem;
+            color: #27374D;
+            font-weight: 600;
+            margin: 10px 0;
+        }
+
+        & h3 {
+            font-size: 1.1rem;
+            color: #27374D;
+            font-weight: 600;
+            margin: 10px 0;
+        }
+
+        & p {
+            font-size: 0.9rem;
+            color: #27374D;
+            font-weight: 500;
+            margin: 10px 0;
+        }
+    }
+}
