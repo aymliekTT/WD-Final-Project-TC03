@@ -129,3 +129,18 @@ WD-ProjectName
 | Progress and Radial Bar | Used on the skills page. | https://www.youtube.com/watch?v=Md7pEE3nxzg |
 | Google Fonts | Used the font Poppins for my website. | https://fonts.google.com/specimen/Poppins?query=poppins |
 
+## WakaTime
+<div align="center" float="left">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymliekTT&show_icons=true&theme=dark" alt="aymliekTT" width=400 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymliekTT&layout=compact&theme=dark" alt="aymliekTT" width=310 />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aymliekTT&theme=radical&hide_border=false" alt="aymliekTT" width=430 />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aymliekTT&theme=tokyonight&utcOffset=+08" alt="aymliekTT" width=310 />
+  </p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aymliekTT&theme=tokyonight" alt="aymliekTT" style="max-width: 100%;border: 1px solid white;border-radius: 6px;" width=600></img>
+
+  <br/>
+  
+</div>
